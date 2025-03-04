@@ -8,3 +8,4 @@ class ResPartner(models.Model):
         ('wholesale', 'Mayorista'),
         ('retail', 'Minorista')
     ], string='Categoría de Cliente', default='retail', required=True)
+    #state_sale = fields.Char(string="estado de venta")
