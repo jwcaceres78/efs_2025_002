@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_sales_change001_sales_change001,access_sales_change001_sales_change001,model_change,,1,1,1,1
+access_sales_change001_book,access_sales_change001_book,model_book,,1,1,1,1
